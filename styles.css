@@ -1,0 +1,23 @@
+div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 270px;
+    padding: 1 rem;
+    box-shadow: 4px 4px 8px black;
+    margin: 5px;
+    background-color: orange;
+
+}
+
+#tarjeta{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 1 rem;
+    row-gap: 2 rem;
+    width: 100%;
+    background-color: greenyellow;
+}
